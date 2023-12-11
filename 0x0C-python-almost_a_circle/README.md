@@ -2,7 +2,7 @@
 
 ## General Objectives
 
-Reviewing various pythin concepts like:
+Reviewing various python concepts like:
 - Import
 - Exceptions
 - Class
@@ -13,3 +13,4 @@ Reviewing various pythin concepts like:
 - Inheritance
 - Unittest
 - Read/Write file
+
