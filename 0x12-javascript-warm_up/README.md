@@ -1,6 +1,6 @@
 # 0x12. JavaScript - Warm up
 
-## General
+# General
 
 Why JavaScript programming is amazing
 How to run a JavaScript script
@@ -18,3 +18,4 @@ Scope of variables
 What are the arithmetic operators and how to use them
 How to manipulate dictionary
 How to import a file
+
