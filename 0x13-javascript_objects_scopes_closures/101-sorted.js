@@ -3,7 +3,7 @@ const { dict } = require('./101-data');
 
 const newDict = {};
 for (const key in dict) {
-  if (newDict.hasOwnProperty(dict[key])) {
+  if (Object.prototype.hasOwnProperty.call(newDict, dict[key])) {
     newDict[dict[key]].push(key);
   } else {
     newDict[dict[key]] = [key];
